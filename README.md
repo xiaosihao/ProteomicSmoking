@@ -2,7 +2,7 @@
 ---
 
 # Proteomic Smoking INdex (pSIN) Project
-======================================
+# ======================================
 
 This repository contains code to reproduce and extend the analyses in:
 “Proteomic signatures of smoking and their associations with risk of incident diseases and mortality in diverse populations” :contentReference[oaicite:0]{index=0}
