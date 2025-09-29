@@ -1,7 +1,6 @@
 
 ---
 
-````
 # Proteomic Smoking INdex (pSIN) Project
 ======================================
 
