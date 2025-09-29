@@ -2,7 +2,7 @@
 ---
 
 ````
-Proteomic Smoking INdex (pSIN) Project
+# Proteomic Smoking INdex (pSIN) Project
 ======================================
 
 This repository contains code to reproduce and extend the analyses in:
