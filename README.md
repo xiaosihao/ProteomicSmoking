@@ -149,7 +149,7 @@ Fits Cox proportional hazards models to relate pSIN (per‐SD) to incident risk 
 
 * Model 1: pSIN only
 * Model 2: + sociodemographics/lifestyle
-* Model 3: + pack‐years
+* Model 3: + smoking history
 
 Generates forest plot of HRs & 95% CIs.
 
